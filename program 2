@@ -1,0 +1,5 @@
+l1=[1,2,3,4,5,6,7,8,9,10]
+l2=for i in range(10,101,10):
+print(i)
+l3=["python","django","flask","string","function","classes"]
+l3
