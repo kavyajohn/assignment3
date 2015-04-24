@@ -1,0 +1,6 @@
+list1 = [1,4,5,8,3,-7,-3]
+print(list1)
+
+print("Maximum number in list1 is ",max(list1))
+print("Minimum number in list1 is ",min(list1))
+print("Sum of all the values in list1 is ",sum(list1))
