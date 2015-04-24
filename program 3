@@ -1,0 +1,15 @@
+l1 = [5,8,"bhavnagar b day","airport road",4,6]
+
+dict ={'john cena':'birthday','sachin tendulkar':'birthday','phil hughes':'rest in peace','paul walker':'rest in peace'}
+
+l2={'a','n','k','i','t','k'}
+
+l1.insert(6,dict)
+11.insert(8,l2)
+print("list is :")
+print(l1)
+
+for s in l1:
+	if type(s) == dict:
+		print(dict.keys())
+		print(dict.values())
